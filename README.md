@@ -113,12 +113,7 @@ The notebook will walk through:
 ##  Files
 
 
-
-- `SRCAF\_Jaccard\_Experiment\_Final.ipynb`: Main experiment notebook
-
-- `Figure1.puml`: PlantUML diagram code for SRCAF conceptual flow
-
-- `Figure1.png`: Visual output of SRCAF process (optional)
+- `SRCAF_Jaccard_Experiment_Final.ipynb`: Main experiment notebook
 
 
 
